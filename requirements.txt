@@ -1,0 +1,11 @@
+Django>=4.2
+djangorestframework
+drf-spectacular
+djangorestframework-simplejwt
+python-dotenv
+django-environ
+psycopg2-binary
+celery[redis]
+redis
+django-fernet-fields
+gunicorn
